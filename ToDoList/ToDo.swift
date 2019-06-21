@@ -12,9 +12,9 @@ class ToDo {
     var name = ""
     var important = false
     
-//   init(listName : String, listImportant : Bool) {
-//        name = listName
-//        important = listImportant
-//    }
+   init(listName : String, listImportant : Bool) {
+        name = listName
+        important = listImportant
+    }
 }
 
